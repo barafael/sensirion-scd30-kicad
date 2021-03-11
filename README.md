@@ -1,0 +1,1 @@
+# sensirion-scd30-kicad
